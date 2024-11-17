@@ -5,3 +5,6 @@
 *.tar.gz
 
 .ipynb_checkpoints/
+
+!linear-regression/*
+!image-recognition-cnn/*
